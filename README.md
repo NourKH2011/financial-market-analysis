@@ -12,6 +12,12 @@ The objective is to compare financial returns, volatility, risk-adjusted perform
 
 **Data Source:** Yahoo Finance, accessed using the `yfinance` Python library.
 
+## Financial Dashboard
+
+![Financial Market Analysis Dashboard](dashboard.png)
+
+The dashboard compares stock performance and risk indicators for five major technology companies from 2020 to 2025.
+
 ## Technologies Used
 
 - Python
