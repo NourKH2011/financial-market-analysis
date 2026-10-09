@@ -49,7 +49,8 @@ Average daily trading volume was calculated separately from the reported trading
 
 ## Project Files
 
-- `notebooks/01_financial_market_analysis.ipynb` — Python data collection, processing, financial KPI calculations, and visualizations.
+- `01_financial_market_analysis.ipynb` — Python data collection, processing, financial KPI calculations, and visualizations.
+- `financial_dashboard.html` — Interactive financial performance and risk dashboard.
 - `dashboards/financial_dashboard.html` — Interactive financial performance and risk dashboard.
 
 ## Limitations
